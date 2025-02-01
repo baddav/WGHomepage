@@ -5,6 +5,7 @@ import {Component} from '@angular/core';
   selector: 'app-root',
   template: `
     <h1>HelloWorld</h1>
+
       `,
   styleUrl: './app.component.css'
 })
