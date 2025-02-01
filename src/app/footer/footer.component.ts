@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   template: `
     <footer class="blockquote-footer">
       <div class="container align-content-center">
-        impressum
+        Impressum
       </div>
     </footer>
   `,
