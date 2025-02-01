@@ -4,7 +4,13 @@ import {Component} from '@angular/core';
   standalone: true,
   selector: 'app-root',
   template: `
-    <h1>HelloWorld</h1>
+    <div class="navbar">
+      <div class="navbar-brand">
+        <a class="navbar-item">
+          here goes the logo
+        </a>
+      </div>
+    </div>
 
       `,
   styleUrl: './app.component.css'
